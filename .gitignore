@@ -1,0 +1,10 @@
+*.env
+node_modules
+server.cert
+server.key
+server.pfx
+server.pass
+history.json
+data/results/*.json
+data/signalsLookups/*.json
+debug.json
